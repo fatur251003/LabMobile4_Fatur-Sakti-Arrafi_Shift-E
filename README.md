@@ -4,7 +4,7 @@ Shift KRS  : A<br>
 Shift Baru : E<br>
 
 
-<h1>TUGAS PERTEMUAN 5 : Proses Aplikasi TokoKita</h1>h1>
+<h1>TUGAS PERTEMUAN 5 : Proses Aplikasi TokoKita</h1>
 
 SCREENSHOT APLIKASI:
 
