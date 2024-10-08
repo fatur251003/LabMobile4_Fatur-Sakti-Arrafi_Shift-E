@@ -11,7 +11,7 @@ SCREENSHOT APLIKASI:
 
 
 a. Proses Login
-User diminta untuk memasukkan email dan password pada halaman/form login.
+<b>User diminta untuk memasukkan email dan password pada halaman/form login.<b>
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20160626.png)
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20160741.png)
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161247.png)
