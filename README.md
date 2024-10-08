@@ -11,7 +11,38 @@ SCREENSHOT APLIKASI:
 
 
 <h2>a. Proses Login<h2>
-<b>User diminta untuk memasukkan email dan password pada halaman/form login.<b>
+User diminta untuk memasukkan email dan password pada halaman/form login.
+
+Kode yang terkait:
+
+Widget _emailTextField() {
+    return TextFormField(
+      decoration: const InputDecoration(labelText: "Email"),
+      keyboardType: TextInputType.emailAddress,
+      controller: _emailTextboxController,
+      validator: (value) {
+        if (value!.isEmpty) {
+          return 'Email harus diisi';
+        }
+        return null;
+      },
+    );
+  }
+
+  Widget _passwordTextField() {
+    return TextFormField(
+      decoration: const InputDecoration(labelText: "Password"),
+      keyboardType: TextInputType.text,
+      obscureText: true,
+      controller: _passwordTextboxController,
+      validator: (value) {
+        if (value!.isEmpty) {
+          return "Password harus diisi";
+        }
+        return null;
+      },
+    );
+  }
   
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20160626.png)
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20160741.png)
