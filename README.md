@@ -40,7 +40,7 @@ Kode yang terkait:
 
 <br>![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/sss5.png)
 
-<br>Kode yang terkait:
+Kode yang terkait:<br>
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/sss6.png)
 
 <h2> Tampilan Halaman Produk</h2>
@@ -51,6 +51,12 @@ Kode yang terkait:
 <br>Kode yang Terkait
 
 <br>![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/sss7.png)
+
+<h2>Form Tambah Produk</h2><br>
+<h4>User dapat menambahkan produk baru dengan menekan ikon plus "+" pada Halaman utama</h4><br>
+
+<br>![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161553.png)
+
 
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161247.png)
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161410.png)
