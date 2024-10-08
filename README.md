@@ -57,9 +57,12 @@ Kode yang terkait:<br>
 
 <br>![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161553.png)
 
+<h2>Halaman Detail Produk</h2>
+<h4>Pada Halaman ini, menampilkan informasi mengenai Produk yang dipilih</h4><br>
 
-![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161247.png)
-![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161410.png)
+![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161410.png)<br>
+
+
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161424.png)
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161553.png)
 ![alt text](https://github.com/fatur251003/LabMobile4_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/Screenshot%202024-10-01%20161723.png)
